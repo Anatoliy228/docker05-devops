@@ -1,4 +1,4 @@
-# docker05-devops
+# 05-devops
 docker build -t devops:05-redis .
 docker build -t redisdb:05
 
